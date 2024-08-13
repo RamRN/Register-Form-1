@@ -1,0 +1,30 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+form
+{
+    font-family:sans-serif;
+}
+input[type=text],input[type=E-Mail]
+{
+    background: transparent;
+    height: 30px;
+    width: 250px;
+}
+select
+{
+    padding: 5px;
+}
+ button
+ {
+   background-color:rgb(65, 65, 143);
+   color: white; 
+   padding: 10px;
+   border-radius: 30%;
+ }
+ label
+ {
+    display:block;
+ }
